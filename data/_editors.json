@@ -8,20 +8,6 @@
         "role": "admin",
         "name": "Sbs",
         "link": "https://www.youtube.com/channel/UC_Ta8YG6wZANSOyAhhLKCIw"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+
     }
 ]

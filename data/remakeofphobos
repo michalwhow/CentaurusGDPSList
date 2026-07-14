@@ -1,12 +1,12 @@
 {
     "id": 143,
-    "name": "Remake Of Phobos",
+    "name": "Dead or Alive",
     "author": "ItsTF",
     "creators": ["ItsTF"],
-    "verifier":"ItsTF",
-    "verification":"https://youtu.be/ljImRrrN9I0"
+    "verifier": "ItsTF",
+    "verification": "https://youtu.be/ljImRrrN9I0",
     "percentToQualify": "100",
     "password": "Free Copy",
-    "records": {
+    "records": [
     ]
 }

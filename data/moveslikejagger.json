@@ -9,16 +9,8 @@
     "password": "Free Copy",
     "records": [
         {
-            "user": "PlaceHolder",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Second_Victor",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+     
         }
+    
     ]
 }

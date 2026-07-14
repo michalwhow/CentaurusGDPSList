@@ -1,0 +1,24 @@
+{
+    "id": 152,
+    "name": "Dead or Alive",
+    "author": "Erika",
+    "creators": ["Erika"],
+    "verifier": "Erika",
+    "verification": "https://www.youtube.com/watch?v=ojFd1oAtpoQ",
+    "percentToQualify": "100",
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "PlaceHolder",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Second_Victor",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}

@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-    ]
-}
+   {
+    "user": "Broxi",
+    "link": "https://www.youtube.com/watch?v=pmb7rA4rgK4",
+    "percent": 100,
+    "hz": 360
+    }
+       ]
+   }

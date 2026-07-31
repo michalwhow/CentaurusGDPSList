@@ -9,4 +9,15 @@
     "password": "Free Copy",
     "records": [
     ]
-}
+{
+            "user": "CombBanana",
+            "link": "https://youtu.be/CB4xlB3RDJ8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Broxi",
+            "link": "https://www.youtube.com/watch?v=Ek_IlDA6M4A",
+            "percent": 100,
+            "hz": 360
+        }

@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-    ]
-}
+    {
+    "user": "CombBanana",
+    "link": "https://youtu.be/af_tNwSw6M8",
+    "percent": 100,
+    "hz": 240
+    }
+       ]
+   }
